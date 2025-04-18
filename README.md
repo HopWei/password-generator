@@ -1,4 +1,4 @@
-![Capa do Projeto](./capa-gerador-de-senhas.png)
+![Capa do Projeto](./capa-gerador-de-senhas.jpg)
 
 # 🔐 Gerador de Senhas
 
